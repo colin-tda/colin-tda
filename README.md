@@ -6,13 +6,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/colin-tndof">
+  <a href="https://github.com/colin-tndof" target="_blank">
     <img alt="GitHub profile" src="https://img.shields.io/badge/GitHub-colin--tndof-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.tn.gov/agriculture/forests.html">
+  <a href="https://www.tn.gov/agriculture/forests.html" target="_blank">
     <img alt="Tennessee Division of Forestry" src="https://img.shields.io/badge/Tennessee%20Division%20of%20Forestry-2D6A4F?style=for-the-badge" />
   </a>
-  <a href="https://www.google.com/maps/place/Chattanooga,+TN">
+  <a href="https://www.google.com/maps/place/Chattanooga,+TN" target="_blank">
     <img alt="Chattanooga, Tennessee" src="https://img.shields.io/badge/Chattanooga,%20Tennessee-168AAD?style=for-the-badge" />
   </a>
 </p>
@@ -42,8 +42,8 @@ I live in Chattanooga, Tennessee (the geospatial capital of the US).
 | Role | GIS Manager and Data Scientist |
 | Organization | Tennessee Division of Forestry |
 | Location | Chattanooga, Tennessee |
-| Website | [tn.gov/agriculture/forests](https://www.tn.gov/agriculture/forests.html) |
-| GitHub | [@colin-tndof](https://github.com/colin-tndof) |
+| Website | <a href="https://www.tn.gov/agriculture/forests.html" target="_blank">tn.gov/agriculture/forests</a> |
+| GitHub | <a href="https://github.com/colin-tndof" target="_blank">@colin-tndof</a> |
 |  |  |
 
 ## Current Focus
@@ -63,7 +63,7 @@ data science workflows     practical automation       clear, useful outputs
 ## GitHub Snapshot
 
 <p align="center">
-  <a href="https://github.com/colin-tndof">
+  <a href="https://github.com/colin-tndof" target="_blank">
     <img
       height="165"
       src="https://github-readme-stats.vercel.app/api?username=colin-tndof&show_icons=true&hide_title=true&hide_border=true&theme=transparent&text_color=2F3E46&icon_color=2D6A4F&ring_color=168AAD"
@@ -74,5 +74,6 @@ data science workflows     practical automation       clear, useful outputs
 
 ## Connect
 
-- [Tennessee Division of Forestry](https://www.tn.gov/agriculture/forests.html)
-- [LinkedIn](https://www.linkedin.com/in/colin-t-stiles-gisp-386717292/)
+- <a href="https://www.tn.gov/agriculture/forests.html" target="_blank">Tennessee Division of Forestry</a>
+- <a href="https://www.linkedin.com/in/colin-t-stiles-gisp-386717292/" target="_blank">LinkedIn</a>
+
