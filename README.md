@@ -12,7 +12,9 @@
   <a href="https://www.tn.gov/agriculture/forests.html">
     <img alt="Tennessee Division of Forestry" src="https://img.shields.io/badge/Tennessee%20Division%20of%20Forestry-2D6A4F?style=for-the-badge" />
   </a>
-  <img alt="Chattanooga, Tennessee" src="https://img.shields.io/badge/Chattanooga,%20Tennessee-168AAD?style=for-the-badge" />
+  <a href="https://www.google.com/maps/place/Chattanooga,+TN">
+    <img alt="Chattanooga, Tennessee" src="https://img.shields.io/badge/Chattanooga,%20Tennessee-168AAD?style=for-the-badge" />
+  </a>
 </p>
 
 <p align="center">
@@ -24,15 +26,16 @@
   />
 </p>
 
-## Hi, I'm Colin
+## Hello, I'm Colin
 
-I'm a **GIS Manager and Data Scientist** at the **Tennessee Division of Forestry** in **Chattanooga, Tennessee**.
+I'm a **GIS Manager and Data Scientist** at the **Tennessee Department of Agriculture.
 
 I work where maps, data, forests, and practical public-service tools meet: turning spatial information into clearer analysis, better workflows, and decisions people can actually use.
 
+I live in Chattanooga, Tennessee (the geospatial capital of the US).
+
 ## Public Profile
 
-| Field | Details |
 | --- | --- |
 | Name | Colin T. Stiles |
 | Role | GIS Manager and Data Scientist |
@@ -58,15 +61,16 @@ data science workflows     practical automation       clear, useful outputs
 ## GitHub Snapshot
 
 <p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=colin-tndof&show_icons=true&hide_title=true&hide_border=true&theme=transparent&text_color=2F3E46&icon_color=2D6A4F&ring_color=168AAD"
-    alt="Colin's GitHub stats"
-  />
+  <a href="https://github.com/colin-tndof">
+    <img
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=colin-tndof&show_icons=true&hide_title=true&hide_border=true&theme=transparent&text_color=2F3E46&icon_color=2D6A4F&ring_color=168AAD"
+      alt="Colin's GitHub stats"
+    />
+  </a>
 </p>
 
 ## Connect
 
-The best jumping-off point is the Tennessee Division of Forestry website:
-
-[www.tn.gov/agriculture/forests.html](https://www.tn.gov/agriculture/forests.html)
+- [Tennessee Division of Forestry](https://www.tn.gov/agriculture/forests.html)
+- [LinkedIn](https://www.linkedin.com/in/colin-t-stiles-gisp-386717292/)
