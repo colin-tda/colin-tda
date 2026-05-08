@@ -36,7 +36,7 @@ I live in Chattanooga, Tennessee (the geospatial capital of the US).
 
 ## Public Profile
 
-| Field | Details |
+|  |  |
 | --- | --- |
 | Name | Colin T. Stiles |
 | Role | GIS Manager and Data Scientist |
