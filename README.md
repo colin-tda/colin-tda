@@ -28,7 +28,7 @@
 
 ## Hello, I'm Colin
 
-I'm a **GIS Manager and Data Scientist** at the **Tennessee Department of Agriculture.
+I'm a **GIS Manager and Data Scientist** at the **Tennessee Department of Agriculture, Division of Forestry**.
 
 I work where maps, data, forests, and practical public-service tools meet: turning spatial information into clearer analysis, better workflows, and decisions people can actually use.
 
