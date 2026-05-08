@@ -6,13 +6,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/colin-tndof" target="_blank">
+  <a href="https://github.com/colin-tndof" target="_blank" rel="noopener noreferrer">
     <img alt="GitHub profile" src="https://img.shields.io/badge/GitHub-colin--tndof-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.tn.gov/agriculture/forests.html" target="_blank">
+  <a href="https://www.tn.gov/agriculture/forests.html" target="_blank" rel="noopener noreferrer">
     <img alt="Tennessee Division of Forestry" src="https://img.shields.io/badge/Tennessee%20Division%20of%20Forestry-2D6A4F?style=for-the-badge" />
   </a>
-  <a href="https://www.google.com/maps/place/Chattanooga,+TN" target="_blank">
+  <a href="https://www.google.com/maps/place/Chattanooga,+TN" target="_blank" rel="noopener noreferrer">
     <img alt="Chattanooga, Tennessee" src="https://img.shields.io/badge/Chattanooga,%20Tennessee-168AAD?style=for-the-badge" />
   </a>
 </p>
@@ -28,30 +28,29 @@
 
 ## Hello, I'm Colin
 
-I'm a **GIS Manager and Data Scientist** at the **Tennessee Department of Agriculture, Division of Forestry**.
+I'm a **GIS Manager and Data Scientist** building spatial data systems for the **Tennessee Department of Agriculture, Division of Forestry**.
 
-I work where maps, data, forests, and practical public-service tools meet: turning spatial information into clearer analysis, better workflows, and decisions people can actually use.
+I turn forest, field, and operational data into maps, workflows, and decision-making tools that help public-sector teams understand what is happening on the ground and act with confidence.
 
-I live in Chattanooga, Tennessee (the geospatial capital of the US).
+I live in Chattanooga, Tennessee (the geospatial capital of the US). Outside of geospatial data and forestry, I love whitewater kayaking, climbing, scuba diving, and my dogs Willow and Coconut.
 
 ## Public Profile
 
-|  |  |
+| Field | Details |
 | --- | --- |
 | Name | Colin T. Stiles |
 | Role | GIS Manager and Data Scientist |
 | Organization | Tennessee Division of Forestry |
 | Location | Chattanooga, Tennessee |
-| Website | <a href="https://www.tn.gov/agriculture/forests.html" target="_blank">tn.gov/agriculture/forests</a> |
-| GitHub | <a href="https://github.com/colin-tndof" target="_blank">@colin-tndof</a> |
-|  |  |
+| Website | <a href="https://www.tn.gov/agriculture/forests.html" target="_blank" rel="noopener noreferrer">tn.gov/agriculture/forests</a> |
+| GitHub | <a href="https://github.com/colin-tndof" target="_blank" rel="noopener noreferrer">@colin-tndof</a> |
 
-## Current Focus
+## What I build
 
-- Building GIS and data workflows for forestry work across Tennessee.
-- Making spatial data easier to understand, trust, and act on.
-- Connecting field knowledge with clean analysis, useful maps, and reproducible tools.
-- Keeping technical work grounded in real-world decisions, not just dashboards for dashboards' sake.
+- Spatial analysis workflows for forestry operations, planning, and reporting.
+- Clean, reproducible data pipelines that turn raw field data into usable products.
+- Maps and dashboards designed for real decisions, not just visual polish.
+- Automation that saves staff time and reduces manual GIS/data cleanup.
 
 ## Things I Care About
 
@@ -60,10 +59,14 @@ geospatial analysis        forest data systems        public-sector technology
 data science workflows     practical automation       clear, useful outputs
 ```
 
+## Featured Work
+
+Come back `later` for an update in this section!
+
 ## GitHub Snapshot
 
 <p align="center">
-  <a href="https://github.com/colin-tndof" target="_blank">
+  <a href="https://github.com/colin-tndof" target="_blank" rel="noopener noreferrer">
     <img
       height="165"
       src="https://github-readme-stats.vercel.app/api?username=colin-tndof&show_icons=true&hide_title=true&hide_border=true&theme=transparent&text_color=2F3E46&icon_color=2D6A4F&ring_color=168AAD"
@@ -72,8 +75,18 @@ data science workflows     practical automation       clear, useful outputs
   </a>
 </p>
 
+<details>
+  <summary>Fun Facts</summary>
+
+- Favorite map problem: making messy real-world data useful.
+- Current rabbit hole: reproducible GIS workflows.
+- Best kind of dashboard: one that helps someone make a decision faster.
+- Strong opinion: maps should explain, not decorate.
+
+</details>
+
 ## Connect
 
-- <a href="https://www.tn.gov/agriculture/forests.html" target="_blank">Tennessee Division of Forestry</a>
-- <a href="https://www.linkedin.com/in/colin-t-stiles-gisp-386717292/" target="_blank">LinkedIn</a>
-
+- <a href="https://colinstiles.github.io/cts-gis-portfolio/" target="_blank" rel="noopener noreferrer">My Portfolio</a>
+- <a href="https://www.linkedin.com/in/colin-t-stiles-gisp-386717292/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+- <a href="https://www.tn.gov/agriculture/forests.html" target="_blank" rel="noopener noreferrer">Tennessee Division of Forestry</a>
