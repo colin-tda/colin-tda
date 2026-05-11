@@ -37,12 +37,14 @@ I live in Chattanooga, Tennessee (the geospatial capital of the US). Outside of 
 ## Public Profile
 
 |  |  |
+| Field | Value |
+|---|---|
 | Name | Colin T. Stiles |
 | Role | GIS Manager and Data Scientist |
 | Organization | Tennessee Division of Forestry |
 | Location | Chattanooga, Tennessee |
 | Website | <a href="https://www.tn.gov/agriculture/forests.html" target="_blank" rel="noopener noreferrer">tn.gov/agriculture/forests</a> |
-| GitHub | <a href="https://github.com/colin-tndof" target="_blank" rel="noopener noreferrer">@colin-tndof</a> |\
+| GitHub | <a href="https://github.com/colin-tndof" target="_blank" rel="noopener noreferrer">@colin-tndof</a> |
 |  |  |
 
 ## What I build
