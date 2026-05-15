@@ -63,7 +63,17 @@ data science workflows     practical automation       clear, useful outputs
 
 ## Featured Work
 
-Come back `later` for an update in this section!
+<p align="center">
+  <img
+    src="./assets/recent-map.png"
+    alt="Recent map project"
+    width="720"
+  />
+</p>
+
+**Featured map:** Add a short title for the map here  
+**Why I made it:** Add one sentence about the question, story, or place behind the map.  
+**Tools used:** ArcGIS Pro / QGIS / Python / Illustrator / Mapbox / other tools
 
 ## GitHub Snapshot
 
