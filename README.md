@@ -20,8 +20,8 @@
 <p align="center">
   <img
     src="https://avatars.githubusercontent.com/u/282939486?v=4"
-    width="128"
-    height="128"
+    width="256"
+    height="256"
     alt="Colin T. Stiles"
   />
 </p>
@@ -32,19 +32,18 @@ I'm a **GIS Manager and Data Scientist** building spatial data systems for the *
 
 I turn forest, field, and operational data into maps, workflows, and decision-making tools that help public-sector teams understand what is happening on the ground and act with confidence.
 
-I live in Chattanooga, Tennessee (the geospatial capital of the US). Outside of geospatial data and forestry, I love whitewater kayaking, climbing, scuba diving, and my dogs Willow and Coconut.
+I live in Chattanooga, Tennessee (the geospatial capital of the US). Outside of GIS and forestry, I love whitewater kayaking, climbing, scuba diving, and gravel biking.
 
 ## Public Profile
 
 |  |  |
-| Field | Value |
 |---|---|
-| Name | Colin T. Stiles |
-| Role | GIS Manager and Data Scientist |
-| Organization | Tennessee Division of Forestry |
-| Location | Chattanooga, Tennessee |
-| Website | <a href="https://www.tn.gov/agriculture/forests.html" target="_blank" rel="noopener noreferrer">tn.gov/agriculture/forests</a> |
-| GitHub | <a href="https://github.com/colin-tndof" target="_blank" rel="noopener noreferrer">@colin-tndof</a> |
+| **Name** | Colin T. Stiles |
+| **Role** | GIS Manager and Data Scientist |
+| **Organization** | Tennessee Division of Forestry |
+| **Location** | Chattanooga, Tennessee |
+| **Website** | <a href="https://www.tn.gov/agriculture/forests.html" target="_blank" rel="noopener noreferrer">tn.gov/agriculture/forests</a> |
+| **GitHub** | <a href="https://github.com/colin-tndof" target="_blank" rel="noopener noreferrer">@colin-tndof</a> |
 |  |  |
 
 ## What I build
@@ -65,15 +64,11 @@ data science workflows     practical automation       clear, useful outputs
 
 <p align="center">
   <img
-    src="./assets/recent-map.png"
-    alt="Recent map project"
-    width="720"
+    src="./assets/recent-map.jpg"
+    alt="Bledsoe State Forest"
+    height="780"
   />
 </p>
-
-**Featured map:** Add a short title for the map here  
-**Why I made it:** Add one sentence about the question, story, or place behind the map.  
-**Tools used:** ArcGIS Pro / QGIS / Python / Illustrator / Mapbox / other tools
 
 ## GitHub Snapshot
 
@@ -86,16 +81,6 @@ data science workflows     practical automation       clear, useful outputs
     />
   </a>
 </p>
-
-<details>
-  <summary>Fun Facts</summary>
-
-- Favorite map problem: making messy real-world data useful.
-- Current rabbit hole: reproducible GIS workflows.
-- Best kind of dashboard: one that helps someone make a decision faster.
-- Strong opinion: maps should explain, not decorate.
-
-</details>
 
 ## Connect
 
