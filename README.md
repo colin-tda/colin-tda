@@ -70,18 +70,6 @@ data science workflows     practical automation       clear, useful outputs
   />
 </p>
 
-## GitHub Snapshot
-
-<p align="center">
-  <a href="https://github.com/colin-tndof" target="_blank" rel="noopener noreferrer">
-    <img
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=colin-tndof&show_icons=true&hide_title=true&hide_border=true&theme=transparent&text_color=2F3E46&icon_color=2D6A4F&ring_color=168AAD"
-      alt="Colin's GitHub stats"
-    />
-  </a>
-</p>
-
 ## Connect
 
 - <a href="https://colinstiles.github.io/cts-gis-portfolio/" target="_blank" rel="noopener noreferrer">My Portfolio</a>
