@@ -1,16 +1,16 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1B4332,45:2D6A4F,100:168AAD&text=Colin%20T.%20Stiles&fontColor=F8FAFC&fontSize=44&fontAlignY=38&desc=GIS%20Manager%20%2B%20Data%20Scientist%20%7C%20Tennessee%20Division%20of%20Forestry&descAlignY=58&descSize=17"
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1B4332,45:2D6A4F,100:168AAD&text=Colin%20T.%20Stiles&fontColor=F8FAFC&fontSize=44&fontAlignY=38&desc=GIS%20Manager%20%2B%20Data%20Scientist%20%7C%20Tennessee%20Department%20of%20Agriculture&descAlignY=58&descSize=17"
     alt="Colin T. Stiles profile banner"
   />
 </p>
 
 <p align="center">
-  <a href="https://github.com/colin-tndof" target="_blank" rel="noopener noreferrer">
-    <img alt="GitHub profile" src="https://img.shields.io/badge/GitHub-colin--tndof-181717?style=for-the-badge&logo=github" />
+  <a href="https://github.com/colin-tda" target="_blank" rel="noopener noreferrer">
+    <img alt="GitHub profile" src="https://img.shields.io/badge/GitHub-colin--tda-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.tn.gov/agriculture/forests.html" target="_blank" rel="noopener noreferrer">
-    <img alt="Tennessee Division of Forestry" src="https://img.shields.io/badge/Tennessee%20Division%20of%20Forestry-2D6A4F?style=for-the-badge" />
+  <a href="https://www.tn.gov/agriculture.html" target="_blank" rel="noopener noreferrer">
+    <img alt="Tennessee Department of Agriculture" src="https://img.shields.io/badge/Tennessee%20Department%20of%20Agriculture-2D6A4F?style=for-the-badge" />
   </a>
   <a href="https://www.google.com/maps/place/Chattanooga,+TN" target="_blank" rel="noopener noreferrer">
     <img alt="Chattanooga, Tennessee" src="https://img.shields.io/badge/Chattanooga,%20Tennessee-168AAD?style=for-the-badge" />
@@ -40,10 +40,10 @@ I live in Chattanooga, Tennessee (the geospatial capital of the US). Outside of 
 |---|---|
 | **Name** | Colin T. Stiles |
 | **Role** | GIS Manager and Data Scientist |
-| **Organization** | Tennessee Division of Forestry |
+| **Organization** | Tennessee Department of Agriculture, Division of Forestry |
 | **Location** | Chattanooga, Tennessee |
 | **Website** | <a href="https://www.tn.gov/agriculture/forests.html" target="_blank" rel="noopener noreferrer">tn.gov/agriculture/forests</a> |
-| **GitHub** | <a href="https://github.com/colin-tndof" target="_blank" rel="noopener noreferrer">@colin-tndof</a> |
+| **GitHub** | <a href="https://github.com/colin-tda" target="_blank" rel="noopener noreferrer">@colin-tda</a> |
 |  |  |
 
 ## What I build
@@ -72,6 +72,6 @@ data science workflows     practical automation       clear, useful outputs
 
 ## Connect
 
-- <a href="https://colinstiles.github.io/cts-gis-portfolio/" target="_blank" rel="noopener noreferrer">My Portfolio</a>
-- <a href="https://www.linkedin.com/in/colin-t-stiles-gisp-386717292/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
-- <a href="https://www.tn.gov/agriculture/forests.html" target="_blank" rel="noopener noreferrer">Tennessee Division of Forestry</a>
+<p>
+  <a href="https://colinstiles.github.io/cts-gis-portfolio/" target="_blank" rel="noopener noreferrer"><img alt="My Portfolio" src="https://img.shields.io/badge/My%20Portfolio-004b8d?style=flat-square"></a>
+  <a href="https://www.linkedin.com/in/colin-t-stiles-gisp-386717292/" target="_blank" rel="noopener noreferrer"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
