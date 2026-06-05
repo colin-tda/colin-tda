@@ -19,7 +19,7 @@
 
 <p align="center">
   <img
-    src="https://avatars.githubusercontent.com/u/282939486?v=4"
+    src="https://avatars.githubusercontent.com/u/10893543?v=4"
     width="256"
     height="256"
     alt="Colin T. Stiles"
@@ -32,26 +32,14 @@ I'm a **GIS Manager and Data Scientist** building spatial data systems for the *
 
 I turn forest, field, and operational data into maps, workflows, and decision-making tools that help public-sector teams understand what is happening on the ground and act with confidence.
 
-I live in Chattanooga, Tennessee (the geospatial capital of the US). Outside of GIS and forestry, I love whitewater kayaking, climbing, scuba diving, and gravel biking.
-
-## Public Profile
-
-|  |  |
-|---|---|
-| **Name** | Colin T. Stiles |
-| **Role** | GIS Manager and Data Scientist |
-| **Organization** | Tennessee Department of Agriculture, Division of Forestry |
-| **Location** | Chattanooga, Tennessee |
-| **Website** | <a href="https://www.tn.gov/agriculture/forests.html" target="_blank" rel="noopener noreferrer">tn.gov/agriculture/forests</a> |
-| **GitHub** | <a href="https://github.com/colin-tda" target="_blank" rel="noopener noreferrer">@colin-tda</a> |
-|  |  |
+I live in Chattanooga, Tennessee. Outside of GIS and forestry, I love whitewater kayaking, climbing, scuba diving, and gravel biking.
 
 ## What I build
 
 - Spatial analysis workflows for forestry operations, planning, and reporting.
 - Clean, reproducible data pipelines that turn raw field data into usable products.
 - Maps and dashboards designed for real decisions, not just visual polish.
-- Automation that saves staff time and reduces manual GIS/data cleanup.
+- Automation that saves staff time and reduces manual data cleanup.
 
 ## Things I Care About
 
@@ -65,7 +53,7 @@ data science workflows     practical automation       clear, useful outputs
 <p align="center">
   <img
     src="./assets/recent-map.jpg"
-    alt="Bledsoe State Forest"
+    alt="Chickasaw Ecology"
     height="780"
   />
 </p>
