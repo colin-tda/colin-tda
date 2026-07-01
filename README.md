@@ -19,7 +19,7 @@
 
 <p align="center">
   <img
-    src="https://avatars.githubusercontent.com/u/10893543?v=4"
+    src="https://github.com/colin-tda.png"
     width="256"
     height="256"
     alt="Colin T. Stiles"
@@ -52,7 +52,7 @@ data science workflows     practical automation       clear, useful outputs
 
 <p align="center">
   <img
-    src="./assets/recent-map.jpg"
+    src="./assets/recent-map.png"
     alt="Chickasaw Ecology"
     height="780"
   />
